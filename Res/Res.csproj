@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8612BFC0-E35E-44BA-8565-E34123A885EF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Res</RootNamespace>
+    <AssemblyName>Res</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Bunifu Technologies\Bunifu Framework Manager\bin\updates\Bunifu UI 1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\Downloads\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs" />
+    <Compile Include="Bill.cs" />
+    <Compile Include="DailyLog.cs" />
+    <Compile Include="DataAccess.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="FormAddSetMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSetMenu.Designer.cs">
+      <DependentUpon>FormAddSetMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBillPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBillPayment.Designer.cs">
+      <DependentUpon>FormBillPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManager.Designer.cs">
+      <DependentUpon>FormManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManagerAddEmployyeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManagerAddEmployyeInfo.Designer.cs">
+      <DependentUpon>FormManagerAddEmployyeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IBindingList.cs" />
+    <Compile Include="Inventory.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="OrderItem.cs" />
+    <Compile Include="pdf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pdf.Designer.cs">
+      <DependentUpon>pdf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FormQuantity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormQuantity.Designer.cs">
+      <DependentUpon>FormQuantity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStaffs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStaffs.Designer.cs">
+      <DependentUpon>FormStaffs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTakeOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTakeOrder.Designer.cs">
+      <DependentUpon>FormTakeOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellLog.cs" />
+    <Compile Include="SetMenu.cs" />
+    <Compile Include="SetMenuItem.cs" />
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="FormAddSetMenu.resx">
+      <DependentUpon>FormAddSetMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBillPayment.resx">
+      <DependentUpon>FormBillPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManager.resx">
+      <DependentUpon>FormManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManagerAddEmployyeInfo.resx">
+      <DependentUpon>FormManagerAddEmployyeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pdf.resx">
+      <DependentUpon>pdf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormQuantity.resx">
+      <DependentUpon>FormQuantity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStaffs.resx">
+      <DependentUpon>FormStaffs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTakeOrder.resx">
+      <DependentUpon>FormTakeOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

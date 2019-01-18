@@ -1,0 +1,83 @@
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\bin\Debug\Res.exe.config
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\bin\Debug\Res.exe
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\bin\Debug\Res.pdb
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\obj\Debug\Res.csprojResolveAssemblyReference.cache
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\obj\Debug\Res.Form1.resources
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\obj\Debug\Res.Properties.Resources.resources
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\obj\Debug\Res.csproj.GenerateResource.Cache
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\obj\Debug\Res.exe
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\obj\Debug\Res.pdb
+c:\users\jannatullima\documents\visual studio 2017\Projects\Res\Res\obj\Debug\Res.Staff.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.Staffs.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.TakeOrder.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.AddingStaffInfo.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.Admin.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.AddSetMenu.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.Manager.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.ManagerAddEmployyeInfo.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.Quantity.resources
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\bin\Debug\itextsharp.dll
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\bin\Debug\itextsharp.xml
+C:\Users\JannatulLima\Documents\Visual Studio 2017\Projects\Res\Res\obj\Debug\Res.pdf.resources
+C:\Users\aoeasif\Desktop\Res\Res\bin\Debug\Res.exe.config
+C:\Users\aoeasif\Desktop\Res\Res\bin\Debug\Res.exe
+C:\Users\aoeasif\Desktop\Res\Res\bin\Debug\Res.pdb
+C:\Users\aoeasif\Desktop\Res\Res\bin\Debug\itextsharp.xml
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.csprojResolveAssemblyReference.cache
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.Form1.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.pdf.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.Properties.Resources.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.Staffs.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.csproj.GenerateResource.Cache
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.exe
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.pdb
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.FormAddingStaffInfo.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.FormAddSetMenu.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.FormAdmin.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.FormManager.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.FormManagerAddEmployyeInfo.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.FormQuantity.resources
+C:\Users\aoeasif\Desktop\Res\Res\obj\Debug\Res.FormTakeOrder.resources
+C:\Users\aoeas\Desktop\Res\Res\bin\Debug\Res.exe.config
+C:\Users\aoeas\Desktop\Res\Res\bin\Debug\Res.exe
+C:\Users\aoeas\Desktop\Res\Res\bin\Debug\Res.pdb
+C:\Users\aoeas\Desktop\Res\Res\bin\Debug\itextsharp.xml
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.csprojAssemblyReference.cache
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.FormAddSetMenu.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.FormAdmin.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.Form1.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.FormAddingStaffInfo.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.FormManager.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.FormManagerAddEmployyeInfo.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.pdf.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.Properties.Resources.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.FormQuantity.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.Staffs.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.FormTakeOrder.resources
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.csproj.GenerateResource.cache
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.csproj.CoreCompileInputs.cache
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.csproj.CopyComplete
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.exe
+C:\Users\aoeas\Desktop\Res\Res\obj\Debug\Res.pdb
+D:\Workbook\AIUB\CSharp\Res\Res\bin\Debug\Res.exe.config
+D:\Workbook\AIUB\CSharp\Res\Res\bin\Debug\Res.exe
+D:\Workbook\AIUB\CSharp\Res\Res\bin\Debug\Res.pdb
+D:\Workbook\AIUB\CSharp\Res\Res\bin\Debug\itextsharp.xml
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.csprojAssemblyReference.cache
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.FormAddSetMenu.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.FormAdmin.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.Form1.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.FormAddingStaffInfo.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.FormManager.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.FormManagerAddEmployyeInfo.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.pdf.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.Properties.Resources.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.FormQuantity.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.Staffs.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.FormTakeOrder.resources
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.csproj.GenerateResource.cache
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.csproj.CoreCompileInputs.cache
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.csproj.CopyComplete
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.exe
+D:\Workbook\AIUB\CSharp\Res\Res\obj\Debug\Res.pdb
